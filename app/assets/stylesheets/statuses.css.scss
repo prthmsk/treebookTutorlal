@@ -2,6 +2,10 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+.status {
+	border-bottom: 1px solid #eee;
+	padding: 5px 0px;
+}
 
 .status .admin {
 	display: none;
