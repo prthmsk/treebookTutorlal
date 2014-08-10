@@ -44,3 +44,5 @@ gem 'bootstrap-sass', '~> 3.2.0.1'
 gem 'devise'
 
 gem 'simple_form'
+
+gem 'geokit-rails'

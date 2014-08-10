@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :clinics
+
   devise_for :users
   resources :statuses
   root to: "statuses#index"
