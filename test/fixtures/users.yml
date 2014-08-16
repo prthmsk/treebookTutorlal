@@ -4,3 +4,11 @@ testuser:
  email: "testuser@email.com"
  encrypted_password: "password"
  profile_name: "testuser"
+
+
+testuser2:
+ first_name: "Test2"
+ last_name: "User2"
+ email: "testuser2@email.com"
+ encrypted_password: "password2"
+ profile_name: "testuser2" 
